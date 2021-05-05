@@ -1,0 +1,68 @@
+.nav-bar{
+    width: 500px;
+    margin-left: 3%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box{
+    margin-top: 20px;
+    font-size: 35px;
+    color : white;
+}
+.box1{
+    margin-top: 25px;
+    font-size: 18px;
+    color: white;
+}
+.box1:hover{
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+button{
+    width:100px;
+    height:40px;
+    background-color: yellow;
+    float: right;
+    margin-right: 5%;
+    margin-top: 10px;
+}
+.box2{
+    font-size: 50px;
+    margin-top: 5%;
+    margin-left: 6%;
+}
+.box2 span{
+    color: yellow;
+}
+.box2 p{
+    color: white;
+}
+.box2 button{
+    position: absolute;
+    top:37%;
+    width:100px;
+    height:40px;
+    background-color: yellow;
+}
+.icons{
+    width:50px;
+    height: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    background-color: black;
+}
+.icon1 div{
+    color: white;
+    margin-top:35px;
+    margin-left: 10px;
+}                             
+.icon2{
+    margin-top: 400px;
+    background-color: yellow;
+}
+.icon2 div{
+    font-size: 30px;
+    margin-left:10px;
+    padding-bottom: 20px;
+} 
